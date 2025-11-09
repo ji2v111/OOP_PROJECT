@@ -30,12 +30,6 @@ public class Auditorium {
         System.out.println("participants:  " + SeatsOccupied);
     }
 
-    public void DisplaySeats() {
-        System.out.println("Seats Status");
-        System.out.println("Total Seats : " + TotalSeats);
-        System.out.println("Seats Occupied: " + SeatsOccupied);
-        System.out.println("Seats Available: " + (TotalSeats - SeatsOccupied));
-    }
-
+    
 
 }
