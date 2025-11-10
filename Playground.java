@@ -7,7 +7,7 @@ public class Playground {
         this.area = area;
     }
 
-    boolean IsOccupied(){
-        return IsOccupied;
-    }
+    //boolean IsOccupied(){return IsOccupied;}
 }
+
+
