@@ -1,4 +1,5 @@
-public class Auditorium {
+//raiyan 1st edit 
+// // public class Auditorium {
     int TotalSeats;
     int SeatsOccupied;
     String EventName;
