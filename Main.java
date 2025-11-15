@@ -97,7 +97,7 @@ public class Main {
             user.nextLine();
 
             //ClassEquipment classEquipment1 = new ClassEquipment();
-            // jhensfwn
+            // jhensfwnre,ngmejn
 
 
 
